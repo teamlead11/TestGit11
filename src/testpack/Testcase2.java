@@ -13,4 +13,10 @@ public class Testcase2 {
 		System.out.println(d);
 	}
 
+	public static void testcase2(String a, String b) {
+		System.out.println("this is my test case1");
+		String d = a + b;
+		System.out.println(d);
+	}
+
 }
